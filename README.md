@@ -1,9 +1,9 @@
 ## Olá! Sou o Elísio.👋
 
-- 🎓 Graduado em Engenharia da Computação e Administração pela Faculdade Anhanguera de Uberlândia.
-- 🚀 Atualmente estou realizando o bootcamp Engenharia de Dados da NTT DATA - DIO.
-- 🖥️ Estou tendo a oportunidade de conhecer as ferramentas aplicadas na área de dados. 
-- ❤️ Amo aprender sobre novas tecnologias e o mundo dos negócios.
+- 🎓 Graduado em Engenharia da Computação e Administração pela Faculdade Pitágoras de Uberlândia.
+- 🚀 Atualmente estou empreendendo na carreira de Analista de Dados, Cientista de Dados ou Engenheiro de Dados.
+- 🖥️ Estou desenvolvendo habilidades para manipular e analisar dados utilizando as tecnologias mais modernas.
+- ❤️ Apaixonado por aprender e aplicar as novas tecnologias para impulsionar o crescimento e a transformação digital dos negócios.
   
 <table>
   <tr>

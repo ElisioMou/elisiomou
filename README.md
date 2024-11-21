@@ -1,9 +1,9 @@
 ## Olá! Sou o Elísio.👋
 
 - 🎓 Graduado em Engenharia da Computação e Administração pela Faculdade Pitágoras de Uberlândia.
-- 🚀 Atualmente estou empreendendo na carreira de Analista de Dados, Cientista de Dados ou Engenheiro de Dados.
-- 🖥️ Estou desenvolvendo habilidades para manipular e analisar dados utilizando as tecnologias mais modernas.
-- ❤️ Apaixonado por aprender e aplicar as novas tecnologias para impulsionar o crescimento e a transformação digital dos negócios.
+- 🚀 Atualmente estou empreendendo na carreira de Analista de Dados ou Cientista de Dados.
+- 🖥️ Estou desenvolvendo habilidades para manipular e analisar dados com as tecnologias mais modernas.
+- ❤️ Apaixonado por aprender novas tecnologias e aplicar na transformação digital dos negócios.
   
 <table>
   <tr>
